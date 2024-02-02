@@ -15,6 +15,6 @@ Dataset Description:
  
  label: a label that marks the article as potentially unreliable
  
- 1: unreliable
+ 1: unreliable/Fake news
  
- 0: reliable
+ 0: reliable/True news
